@@ -1,7 +1,7 @@
 ******************************eMobilis Institute***************************************
 
 
-## Graduation ProjectProject Setup
+##Project Setup
 ```
 Category : Academic project.
 Language: Java
